@@ -6,4 +6,5 @@ Dog years converter
 dog is 21 years old in humanyears… hmm this is about to get more complicated. 
 Before I start doing the math in my head, let a computer take care of it!</p>
 
-<p>I'll write a C++ program called dog_years.cpp to calculate the age, in human years, of any dog older than 2. </p>
+<p>I'll write a C++ program called dog_years.cpp to calculate the age, in human
+years, of any dog older than 2. </p>
