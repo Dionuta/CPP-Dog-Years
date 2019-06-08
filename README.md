@@ -9,3 +9,4 @@ Before I start doing the math in my head, let a computer take care of it!</p>
 <p>I'll write a C++ program called dog_years.cpp to calculate the age, in human
 years, of any dog older than 2. </p>
 
+[![Image from Gyazo](https://i.gyazo.com/0b92f055223157b272fc5847874e35ae.gif)](https://gyazo.com/0b92f055223157b272fc5847874e35ae)
